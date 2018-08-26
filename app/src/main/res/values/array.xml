@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--shopping category data-->
+    <integer-array name="shop_category_icon">
+        <item>@drawable/ic_devices</item>
+        <item>@drawable/ic_devices</item>
+        <item>@drawable/ic_devices</item>
+        <item>@drawable/ic_devices</item>
+
+    </integer-array>
+
+    <integer-array name="shop_category_bg">
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_4</item>
+    </integer-array>
+
+    <string-array name="shop_category_title">
+        <item>Gadgets and Computers</item>
+        <item>Fashion</item>
+        <item>Beauty and Health</item>
+        <item>Babies and Kids</item>
+    </string-array>
+
+    <string-array name="shop_category_brief">
+        <item>100k Items</item>
+        <item>655k Items</item>
+        <item>221k Items</item>
+        <item>85k Items</item>
+    </string-array>
+
+
+
+</resources>
